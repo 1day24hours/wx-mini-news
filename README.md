@@ -1,4 +1,4 @@
-# wx_news_app
+# wx_mini_news
 【微信小程序 nd】新闻应用
 
 ## 页面预览效果
